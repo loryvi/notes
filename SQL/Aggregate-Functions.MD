@@ -32,7 +32,7 @@ FROM films
 
 ## AGGREGATE AND ARITHMETIC
 
-![Summation](images/image.png)
+![Summation](/images/image.png)
 
 Difference between arithmetic and aggregate
 
